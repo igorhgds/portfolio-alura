@@ -1,17 +1,18 @@
-# Nome do meu projeto
+# Meu portfólio usando HTML e CSS
 
-Rápida descrição do objetivo de fazer esse projeto
+Primeiro projeto realizado com o objetivo de aprendizado das tecnologias HTML e CSS
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Portfólio**
+| :label: Tecnologias | HTML, CSS (tecnologias utilizadas)
+| :rocket: URL         | https://portfolio-mu-sepia-14.vercel.app/
+| :fire: Desafio     | https://cursos.alura.com.br/formacao-programacao
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://github.com/igorhgds/portfolio/blob/main/apresentacao%20site.gif#vitrinedev)
 
-## Detalhes do projeto
+# :hammer: Técnologia Utilizada:
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+- `HTML`
+- `CSS`
