@@ -10,7 +10,7 @@ Primeiro projeto realizado com o objetivo de aprendizado das tecnologias HTML e 
 | :fire: Desafio     | https://cursos.alura.com.br/formacao-programacao
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/igorhgds/portfolio/blob/main/apresentacao%20site.gif#vitrinedev)
+![](https://github.com/igorhgds/portfolio-alura/blob/main/apresentacao%20site.gif#vitrinedev)
 
 # :hammer: Técnologia Utilizada:
 
